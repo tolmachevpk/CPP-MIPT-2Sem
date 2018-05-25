@@ -18,7 +18,92 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Point.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box-Muller.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MSTSolver.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1558">
+              <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MSTSolver.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortOutSolver.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortOutSolver.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box-Muller.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -41,6 +126,15 @@
         <option value="$PROJECT_DIR$/Module 4/RMQ.cpp" />
         <option value="$PROJECT_DIR$/Module 4/ХудожникФотограф.cpp" />
         <option value="$PROJECT_DIR$/Module 2/TradeArbitrage.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/main.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.h" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.h" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.h" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.cpp" />
+        <option value="$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.h" />
       </list>
     </option>
   </component>
@@ -73,6 +167,26 @@
               <item name="Homeworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
               <item name="Module 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homeworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Module 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Задача комивояжера" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homeworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Module 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Задача комивояжера" type="462c0819:PsiDirectoryNode" />
+              <item name="Point" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homeworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Module 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Задача комивояжера" type="462c0819:PsiDirectoryNode" />
+              <item name="SolveWithSortOut" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,33 +224,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527233655120</updated>
-      <workItem from="1527233657890" duration="4334000" />
+      <workItem from="1527233657890" duration="5618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4334000" />
+    <option name="totallyTimeSpent" value="5618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16041666" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32900944" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16041666" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +314,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1691">
           <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithSortOut/SortOutSolver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/Point/Point.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/PointsGenerator/Box-Muller.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 3/Задача комивояжера/SolveWithMST/MSTSolver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
         </state>
       </provider>
     </entry>
